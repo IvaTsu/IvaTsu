@@ -40,7 +40,7 @@ I am a front-end developer with an engineering background and a passion for webs
 
 
 
-[<img src=/images/generator/stackoverflow.svg alt='linkedin' height='40'>](https://stackoverflow.com/users/7379484/)
+[<img src=https://1337-open-source.vercel.app/images/generator/stackoverflow.svg alt='linkedin' height='40'>](https://stackoverflow.com/users/7379484/)
 
 
 
