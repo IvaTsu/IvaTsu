@@ -1,7 +1,7 @@
 
 ### Ivan Tsud
 #### Software Engineer
-![Software Engineer](images/generator/Logotype-dark.svg)
+![Software Engineer](https://1337-open-source.vercel.app/images/generator/Logotype-dark.svg)
 
 
 I am a front-end developer with an engineering background and a passion for websites and mobile application development. I tend to write code by following accessibility and semantics guides and I care about the end product and user experience.
