@@ -6,7 +6,7 @@
 
 I am a front-end developer with an engineering background and a passion for websites and mobile application development. I tend to write code by following accessibility and semantics guides and I care about the end product and user experience.
 
-![JS](https://img.shields.io/badge/-JS-05e273)
+![JS](https://img.shields.io/badge/-JS-%23F7E017)
 ![Node](https://img.shields.io/badge/-Node-05e273)
 ![React](https://img.shields.io/badge/-React-05e273)
 ![React Native](https://img.shields.io/badge/-React%20Native-05e273)
