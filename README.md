@@ -1,10 +1,6 @@
 
 ### Ivan Tsud
 #### Software Engineer
-![Software Engineer](https://1337-open-source.vercel.app/images/generator/Logotype-dark.svg)
-
-
-I am a front-end developer with an engineering background and a passion for websites and mobile application development. I tend to write code by following accessibility and semantics guides and I care about the end product and user experience.
 
 ![JS](https://img.shields.io/badge/-JS-%23F7E017)
 ![Node](https://img.shields.io/badge/-Node-05e273)
@@ -16,52 +12,13 @@ I am a front-end developer with an engineering background and a passion for webs
 ![Sass](https://img.shields.io/badge/-Sass-05e273)
 
 
-📫 You can reach me at ivan.tsud@1337.tech
-
-
----
-
-
+📫 You can reach me at ivan.tsud@tretton37.com
 
 ---
 
-
-
-  
-  
-
-
-
-
-
-
-
-
-
-
-
+[![LinkedIn](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)](https://www.linkedin.com/in/ivan-tsud-4a9b07b6/)
 
 ---
-
-  
-
-
-
-
-[<img src=https://1337-open-source.vercel.app/images/generator/stackoverflow.svg alt='linkedin' height='40'>](https://stackoverflow.com/users/7379484/)
-
-
-
-
-
----
-
-
-
-  
-  
-
-  
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IvaTsu&show_icons=true&bg_color=0C0C91&text_color=05E273&title_color=05E273&border_color=05E273)
   
