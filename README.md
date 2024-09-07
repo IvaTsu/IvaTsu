@@ -3,7 +3,7 @@
 #### Software Engineer
 
 ![JS](https://img.shields.io/badge/-JS-%23F7E017)
-![Node](https://img.shields.io/badge/-Node-05e273)
+![Node](https://img.shields.io/badge/-Node-3c873a)
 ![React](https://img.shields.io/badge/-React-05e273)
 ![React Native](https://img.shields.io/badge/-React%20Native-05e273)
 ![Redux](https://img.shields.io/badge/-Redux-05e273)
