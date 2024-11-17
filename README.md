@@ -6,7 +6,7 @@
 ![Node](https://img.shields.io/badge/-Node-3c873a)
 ![React](https://img.shields.io/badge/-React-61dbfb)
 ![React Native](https://img.shields.io/badge/-React%20Native-20232a)
-![Redux](https://img.shields.io/badge/-Redux-05e273)
+![Redux](https://img.shields.io/badge/-Redux-764abc)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05e273)
 ![React Query](https://img.shields.io/badge/-React%20Query-%23f59e0b)
 ![Sass](https://img.shields.io/badge/-Sass-05e273)
