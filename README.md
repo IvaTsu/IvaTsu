@@ -12,7 +12,7 @@
 ![Sass](https://img.shields.io/badge/-Sass-05e273)
 
 
-📫 You can reach me at ivan.tsud@tretton37.com
+📫 You can reach me at ivan.tsud@gmail.com
 
 ---
 
